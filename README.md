@@ -1,6 +1,9 @@
 # vroidstudio-updater
 
-pixivのVRoid Studioを一発アップデートしてくれるマン（Windows PowerShell）
+pixivのVRoid Studioを一発アップデートしてくれるマン
+
+## 動作要件
+Windows PowerShell 5.0以上
 
 ## 起動方法
 
