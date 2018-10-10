@@ -1,1 +1,1 @@
-powershell -ExecutionPolicy RemoteSigned -File "./wget.ps1"
+powershell -ExecutionPolicy Bypass -File "./wget.ps1"
