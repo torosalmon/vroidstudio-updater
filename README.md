@@ -23,4 +23,11 @@ Windows PowerShell 5.0以上
 
 ---
 
+###### Changelog
+
+2018.10.10 実行ポリシーをRemoteSignedからBypassへ変更
+2018.10.10 公開
+
+---
+
 [連絡先@Twitter](https://twitter.com/trs_torosalmon)
